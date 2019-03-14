@@ -1,0 +1,19 @@
+.article{
+    width: 70%;
+    margin: 30px auto;
+    border: 1px solid gray;
+    padding: 20px;
+    min-height: 500px;
+}
+.article-text{
+    margin: auto;
+    width: 50%;
+}
+.back-button{
+    font-size: 2em;
+    margin: 10px;
+    padding: 10px;
+}
+.back-button:hover{
+    border-bottom: 2px solid gray;
+}

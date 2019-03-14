@@ -1,0 +1,21 @@
+.story{
+    width: 80%;
+    margin: 5% auto 5% auto;
+    border: 1px solid white;
+    cursor: pointer;
+    padding: 10px;
+}
+.story-text{
+    width: 90%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+.story:hover{
+    border: 1px solid #61dafb;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
